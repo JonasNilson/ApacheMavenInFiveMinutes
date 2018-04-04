@@ -8,7 +8,7 @@ Based on the short Maven tutorial available here: https://maven.apache.org/guide
 * Java (JDK 1.8)
 
 ## Notes ##
-* Remember to set Windows PATH variables for Maven, Git and Java.
-* Windows use "\" instead of "/" for directories
-* When using Windows CMD to display the directory structure, using _tree_, add the argument _/F_ to display files.
-* 
+* Remember to set Windows __PATH__ variables for Maven, Git and Java.
+* Windows use "__\\__" instead of "__/__" for directories
+* When using Windows CMD to display the directory structure, using __tree__, add the argument __/F__ to display files.
+
